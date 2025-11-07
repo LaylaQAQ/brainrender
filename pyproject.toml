@@ -5,7 +5,7 @@ authors = [
 ]
 description = "Visualisation and exploration of brain atlases and other anatomical data"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.10"
 dynamic = ["version"]
 
 dependencies = [
